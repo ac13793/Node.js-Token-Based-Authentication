@@ -1,0 +1,26 @@
+{
+  "name": "node-token-jwt",
+  "version": "1.0.0",
+  "description": "nodejs token based authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac13793/Node.js-Token-Based-Authentication.git"
+  },
+  "author": "Ankit Chaurasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac13793/Node.js-Token-Based-Authentication/issues"
+  },
+  "homepage": "https://github.com/ac13793/Node.js-Token-Based-Authentication#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.9.2",
+    "morgan": "^1.8.1"
+  }
+}
